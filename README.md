@@ -7,3 +7,5 @@ This is a basic adventure game utilizing conditional logic. It is intentionally 
 Replit: https://replit.com/@ngiuliano96/rock-paper-scissors-game?v=1
 
 Course: https://www.udemy.com/course/100-days-of-code/
+
+Due to undiagnosed issues with Replit, this repo was created manually and not uploaded directly from the source Replit. As such, it may be missing important files, howver, the code can still be demoed at the above Replit link!
