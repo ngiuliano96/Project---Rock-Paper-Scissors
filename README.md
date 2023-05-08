@@ -2,7 +2,7 @@
 
 ### Rock Paper Scissors
 
-This is a basic adventure game utilizing conditional logic. It is intentionally kept simple to stay in line with the 100 days of code course.
+This is a computer-based game of Rock, Paper, Scissors. Duel it out against a randomly generating "hand" to see who the champion is! The code does not have thorough error validation, to keep in line with the 100 days of code course.
 
 Replit: https://replit.com/@ngiuliano96/rock-paper-scissors-game?v=1
 
